@@ -82,3 +82,16 @@ li {
     background-color: #eee;
     margin: 20px 0;
 }
+.clickable {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/* 默认隐藏 abstract */
+.abstract {
+    display: none;
+    margin-top: 5px;
+    font-size: 14px;
+    color: gray;
+}
