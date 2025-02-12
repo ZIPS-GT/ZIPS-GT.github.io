@@ -88,7 +88,7 @@ li {
     cursor: pointer;
 }
 
-/* 默认隐藏 abstract */
+/* 确保所有 abstract 初始隐藏 */
 .abstract {
     display: none;
     margin-top: 5px;
